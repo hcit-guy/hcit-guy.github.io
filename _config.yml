@@ -1,15 +1,15 @@
-title:            Site Title
+title:            Andrew Nguyen
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
-disqus_shortname:
+url:              http://hcit-guy.github.io
+disqus_shortname: hcit_guy
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Andrew Nguyen
+  avatar:         photo.png
+  bio:            "Some thoughts about health informatics, software engineering, outdoors, anything really."
+  email:          andrew@klarahealth.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
@@ -39,14 +39,14 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+#  - title: Theme Setup
+#    url: /theme-setup/
+#  - title: Made Mistakes
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 highlighter: pygments
 markdown:    kramdown
