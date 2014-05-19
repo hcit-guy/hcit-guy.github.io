@@ -12,5 +12,4 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-My posts are intended more as a notebook for myself and my team.  Perhaps, they
-will be helpful for someone else also.
+Just some notes for myself and anyone else who may be interested.
