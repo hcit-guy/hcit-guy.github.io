@@ -5,6 +5,7 @@ summary:
 modified: 2014-05-19
 status: draft
 hn-discussion:
+comments: true
 ---
 
 I haven't found a good way to debug my clojurescript production code when

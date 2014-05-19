@@ -4,6 +4,7 @@ title: clojurescript+browser repl+closure advanced optimization
 summary:
 status: draft
 hn-discussion:
+comments: true
 ---
 
 As with many bugs and errors, this is quite obvious in hindsight but was more
