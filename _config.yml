@@ -1,17 +1,18 @@
 title:            Andrew Nguyen
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
+#url:              http://localhost:4000
 url:              http://hcit-guy.github.io
-disqus_shortname: hcit_guy
+disqus_shortname: hcit-guy
 
 # Owner/author information
 owner:
   name:           Andrew Nguyen
   avatar:         photo.png
-  bio:            "Some thoughts about health informatics, software engineering, outdoors, anything really."
+  bio:            "Some notes, thoughts, comments, rants  about health informatics, software engineering, outdoors, search and rescue, anything really."
   email:          andrew@klarahealth.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
+  twitter: sf_hcit_guy
   facebook:
   github:
   stackoverflow:
