@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./jekyll-post -D _posts/ -w "$1"

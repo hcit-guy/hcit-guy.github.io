@@ -117,6 +117,7 @@ def main():
             f.write('summary:\n')
             f.write('status: draft\n')
             f.write('hn-discussion:\n')
+            f.write('comments: true:\n')
             if tags:
                 f.write('tags:\n')
                 for tag in tags:
