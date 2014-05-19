@@ -25,7 +25,7 @@ Uncaught TypeError: Cannot read property 'Mg' of undefined
 
 I had added a bunch of code in the last commit so it wasn't immediately obvious
 to me what the problem was.  Of course, disabling optimization resulted in code
-that functioned as expected (including the wonderful browser repl).
+that functioned as expected (including enabling the wonderful browser repl).
 
 I'm going to add this to my [list of things to check anytime something doesn't
 work when optimizations are enabled]({% post_url 2014-05-19-List-of-things-to-check-when-compiling-cljs-with-advanced-optimization %})
